@@ -5,4 +5,4 @@ E3|	AVOIDING_OBSTACLE|	Obstacle Avoided|	NAVIGATING|	The robot shall resume navi
 E4|	NAVIGATING|	Destination Reached|	DELIVERING|	The robot shall enter the delivery state when it reaches the destination.
 E5|	DELIVERING|	Delivery Successful|	RETURNING|	The robot shall start returning to the warehouse after successfully delivering the package.
 E6|	RETURNING|	Warehouse Reached|	IDLE|	The robot shall return to the idle state when it reaches the warehouse.
-E7|	NAVIGATING|	Critical Battery|	RETURNING|	The robot shall stop normal navigation and return to the warehouse when a critical battery condition is detected.
+E7|	NAVIGATING|	Critical Battery|	RETURNING|	The robot shall stop normal navigation and return to the warehouse when a critical battery condition is detected..
