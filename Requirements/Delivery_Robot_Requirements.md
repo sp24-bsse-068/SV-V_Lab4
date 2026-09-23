@@ -8,4 +8,4 @@ R6|	When the robot reaches the destination, it shall start the package delivery 
 R7|	The robot shall begin returning to the warehouse only after the package has been successfully delivered.|	Ensures the return journey follows successful delivery.|	High
 R8|	The robot shall continuously monitor its battery level during navigation and return to the warehouse when the battery reaches a critical level.|	Protects the robot from becoming stranded due to low battery.|	High
 R9|	The robot shall enter Idle state after reaching the warehouse and shall wait for a new delivery request.|	Completes the current journey and prepares for another request.|	High
-R10|	The robot shall prevent the delivery process from starting unless it has received a valid delivery request, reached the destination, and is not in Obstacle-Avoidance mode.|	Enforces restrictions on invalid delivery-state transitions.|High	
+R10|	The robot shall prevent the delivery process from starting unless it has received a valid delivery request, reached the destination, and is not in Obstacle-Avoidance mode.|	Enforces restrictions on invalid delivery-state transitions.|High.
